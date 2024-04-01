@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">My Application</string>
-    <string name="p1">学习安卓，你准备好了吗</string>
-    <string name="p2">准备好了</string>
+    <string name="p1">安卓拼音助学器</string>
+    <string name="p2">开始学习</string>
 
 </resources>
